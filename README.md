@@ -61,7 +61,7 @@ Accuracy Curve plotted using matplotlib
 # Installation
 1. Clone the repository
 bash
-git clone https://github.com/yourusername/quantum-iris-classifier.git
+git clone https://github.com/JhaAyushCanCode/Quantum_ML_Classifier_on_IRIS.git
 cd quantum-iris-classifier
 2. Create & activate virtual environment (optional but recommended)
 bash
