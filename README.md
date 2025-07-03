@@ -12,10 +12,10 @@ Trained using Adam Optimizer
 
 Visualizes both quantum circuit and model accuracy over training epochs
 
-# 📁 Files
+#  Files
 QML_QML_liteData.py: Main script containing data processing, quantum model, training, and evaluation logic.
 
-# 🧠 Model Workflow
+#  Model Workflow
 Load Iris Dataset
 Uses only 2 features for simplicity.
 
@@ -70,7 +70,7 @@ source qenv/bin/activate   # or use `qenv\Scripts\activate` on Windows
 3. Install dependencies
 bash
 pip install pennylane matplotlib scikit-learn
-# ▶ Run the Script
+#  Run the Script
 bash
 python QML_QML_liteData.py
 # Example Output
